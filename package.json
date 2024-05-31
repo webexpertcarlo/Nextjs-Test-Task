@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-crypto-exchange",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.3.6",
+    "@types/axios": "^0.14.0",
+    "axios": "^1.7.2",
+    "i18next": "^23.11.5",
+    "i18next-browser-languagedetector": "^8.0.0",
+    "i18next-http-backend": "^2.5.2",
+    "next": "14.2.3",
+    "next-i18next": "^15.3.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-i18next": "^14.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}

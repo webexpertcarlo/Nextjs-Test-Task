@@ -1,0 +1,5 @@
+{
+  "exchangeRates": "Taux de change",
+  "loading": "Chargement...",
+  "cryptoToEUR": "{{crypto}}/EUR: {{rate}}"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Créer une application Next",
+  "description": "Généré par créer une application Next",
+  "selectLanguage": "French",
+  "cryptoRate": "{{crypto}}/EUR",
+  "rateValue": "{{rate}} / {{eurRate}}"
+}
